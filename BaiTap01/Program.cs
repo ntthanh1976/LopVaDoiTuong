@@ -30,7 +30,12 @@ namespace BaiTap01
             Console.WriteLine("Chieu dai : {0}\nChieu rong: {1}\nDien tich: {2}\nChu vi: {3}",
                 r2.getLength(), r2.getWidth(), r2.findArea(), r2.findPerimeter());
 
+            //thay doi code
+            Rectangle r3; //khai bao r1
+
             Console.ReadLine();
+
+           
 
         }
     }
